@@ -1,5 +1,5 @@
 # bookbot
 
-BookBot is my first project!
+My first project in boot.dev.
 
-Testing new SSH
+Simple CLI tool for counting char occurrences.
